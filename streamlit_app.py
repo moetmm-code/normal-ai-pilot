@@ -26,7 +26,7 @@ experimental conversation. Do not rely on prior conversations.
 """
 
 LIMIT = 30 * 60
-CHECKPOINTS = (5, 10, 15, 20)
+CHECKPOINTS = (5, 10, 15, 20, 25)
 
 OPTIONS = (
     "1 — ไม่อยากสนทนาต่อเลย",
